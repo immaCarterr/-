@@ -1,0 +1,49 @@
+﻿  Main.cpp
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(139,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(366,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(473,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(490,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(507,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(524,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(701,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Main.cpp(81): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Show<Essential>(Type,std::string,int)"
+          with
+          [
+              Type=Essential
+          ]
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(703,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(704,11): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(706,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(743,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(569,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Main.cpp(82): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Redact<Essential>(Type,std::string)"
+          with
+          [
+              Type=Essential
+          ]
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(583,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(591,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(625,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Main.cpp(124): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Delete<Essential>(Type,std::string)"
+          with
+          [
+              Type=Essential
+          ]
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(635,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(643,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(776,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Main.cpp(242): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Find<Essential>(Type,std::string)"
+          with
+          [
+              Type=Essential
+          ]
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(786,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(844,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Main.cpp(267): message : выполняется компиляция ссылки на экземпляр шаблон функции "void FilterCellNums<Essential>(Type,std::string)"
+          with
+          [
+              Type=Essential
+          ]
+C:\Users\chirv\source\repos\КурсоваяЕгор\КурсоваяЕгор\Functions.h(852,22): warning C4018: <: несоответствие типов со знаком и без знака
+  КурсоваяЕгор.vcxproj -> C:\Users\chirv\source\repos\КурсоваяЕгор\Debug\КурсоваяЕгор.exe
